@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "CLU",
+    "owner": "Deepthi Gunda"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threatmodel1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "CLU"
+  }
+}
